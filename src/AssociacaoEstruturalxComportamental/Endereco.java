@@ -1,0 +1,4 @@
+package AssociacaoEstruturalxComportamental;
+
+class Endereco {
+}

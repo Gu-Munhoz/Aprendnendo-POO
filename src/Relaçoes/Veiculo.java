@@ -1,0 +1,5 @@
+package Relaçoes;
+
+
+class Veiculo {
+}

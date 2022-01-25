@@ -1,0 +1,4 @@
+package ExCurso;
+
+class Funcionario {
+}
